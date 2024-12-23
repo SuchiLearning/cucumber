@@ -1,0 +1,12 @@
+2024-12-23 21:12:303 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2024-12-23 21:12:466 INFO  WaitHelper:24 - element is visible..
+2024-12-23 21:12:55 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2024-12-23 21:12:116 INFO  WaitHelper:24 - element is visible..
+2024-12-23 21:12:814 INFO  ServiceHooks:34 - Login into the application with valid credentials is Failed
+2024-12-23 21:12:787 INFO  ServiceHooks:34 - Searching different products after login is Failed
+2024-12-23 21:12:370 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2024-12-23 21:12:429 INFO  WaitHelper:24 - element is visible..
+2024-12-23 21:12:36 INFO  WaitHelper:21 - waiting for element visibilityOf..
+2024-12-23 21:12:92 INFO  WaitHelper:24 - element is visible..
+2024-12-23 21:12:884 INFO  ServiceHooks:34 - Searching different products after login is Failed
+2024-12-23 21:12:305 INFO  ServiceHooks:34 - Searching different products after login is Failed
